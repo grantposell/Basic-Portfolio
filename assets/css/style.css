@@ -226,7 +226,6 @@ margin-left: 100px;
 }
 /*Connect section for social media and code logs*/
 #connect{
-    
     width:300px;
     float: right;
     text-align: left;
@@ -243,8 +242,8 @@ h3{
 }
 #github{
     width:50px;
-    padding: 5px;
     margin-left: 60px;
+    margin-bottom: 5px;
     
 }
 #linkedin{
@@ -267,4 +266,7 @@ footer{
     color: #777777;
     padding:20px;
     border-top: 10px solid #4aaaa5;
+}
+a{
+    color: white;
 }
